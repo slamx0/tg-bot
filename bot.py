@@ -6,7 +6,7 @@ from telegram.constants import ParseMode
 
 # ⚙️ CONFIG
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8651296935:AAHNhSrpra8FPuvy4XN5RaJwmzoaRoEYen8")
-ADMIN_ID = int(os.environ.get("ADMIN_ID", "5601271475"))
+ADMIN_ID = int(os.environ.get("ADMIN_ID", "8533061461"))
 DATA_FILE = "bot_data.json"
 
 # 🎨 POMPOM STYLE
