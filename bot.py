@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 from telegram.constants import ParseMode
 
 # ⚙️ CONFIG
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "xxxxxxxxxxxxxx")
-ADMIN_ID = int(os.environ.get("ADMIN_ID", "xxxxxxxxxxxxxxx"))
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8651296935:AAHNhSrpra8FPuvy4XN5RaJwmzoaRoEYen8")
+ADMIN_ID = int(os.environ.get("ADMIN_ID", "8769651906"))
 DATA_FILE = "bot_data.json"
 
 # 🎨 POMPOM STYLE
